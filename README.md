@@ -11,6 +11,10 @@ A simple web app to detect spam messages using a machine learning model.
 - Confidence percentage display
 - Example messages in sidebar
 
+## ➡️ Try it out!
+
+https://bhax1-spam-detector-app-pykqvs.streamlit.app/
+
 ## 🚀 How to Run
 
 ```bash
@@ -18,6 +22,3 @@ git clone https://github.com/bhax1/spam-detector.git
 cd spam-detector
 pip install -r requirements.txt
 streamlit run app.py (if streamlit is not recognized try this: python -m streamlit run app.py)
-
-## Try it out!
-https://bhax1-spam-detector-app-pykqvs.streamlit.app/
