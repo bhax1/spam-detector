@@ -20,3 +20,4 @@ pip install -r requirements.txt
 streamlit run app.py (if streamlit is not recognized try this: python -m streamlit run app.py)
 
 ## Try it out!
+https://bhax1-spam-detector-app-pykqvs.streamlit.app/
